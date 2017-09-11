@@ -1,0 +1,172 @@
+/*
+* @Author: AIAI
+* @Date:   2017-08-27 02:16:54
+* @Last Modified by:   AIAI
+* @Last Modified time: 2017-09-03 08:59:58
+*/
+@import url("base.css");
+/* 订单头部开始 */
+ .dingdan-tou{
+ 	width: 6.4rem;
+ 	height: 0.81rem;
+ 	overflow: hidden;
+ 	border-bottom: 0.02rem solid #eeeeee;
+ }
+ .dingdan-touzuo{
+ 	width: 0.44rem;
+ 	height: 0.64rem;
+ 	display: block;
+ 	font-size: 0.5rem;
+ 	color: #8a8a8a;
+ 	float: left;
+ }
+ .dingdan-center{
+ 	width: 1.28rem;
+ 	height: 0.36rem;
+ 	margin: 0 auto;
+ 	margin-top: 0.23rem;
+ 	font-size: 0.27rem;
+ 	color: #575757;
+ 	text-align: center;
+ }
+/* 订单头部结束 */
+/* 订单导航开始 */
+ .daohang{
+ 	width: 6.4rem;
+ 	height: 0.75rem;
+ 	display: flex;
+ 	justify-content: space-around;
+ 	border-bottom: 0.11rem solid #e8e8e8;
+ }
+ .daohang-fen{
+ 	width: 0.98rem;
+ 	height: 0.75rem;
+ 	display: block;
+ 	float: left;
+ 	font-size: 0.23rem;
+ 	text-align: center;
+ 	line-height: 0.75rem;
+ 	color: #5b5b5b;
+ }
+/* 订单导航结束 */
+/* 订单聚美栏开始 */
+ .jumei-top{
+ 	width: 6.4rem;
+ 	height: 0.81rem;
+ 	overflow: hidden;
+ }
+ .jumei-bottom{
+ 	width: 6.4rem;
+ 	height: 6.91rem;
+ }
+ .jumei-wen1{
+ 	width: 1.49rem;
+ 	height: 0.24rem;
+ 	float: left;
+ 	margin-top: 0.28rem;
+ 	margin-left: 0.28rem;
+ 	font-size: 0.22rem;
+ 	color: #555555;
+ 	line-height: 0.24rem;
+ }
+ .jumei-wen2{
+ 	width: 1rem;
+ 	height: 0.22rem;
+ 	display: block;
+ 	float: right;
+ 	margin-top: 0.28rem;
+ 	margin-right: 0.28rem;
+ 	font-size: 0.22rem;
+ 	color: #555555;
+ 	line-height: 0.22rem;
+ }
+ .dingdan-bao{
+	width: 6.4rem;
+	height: 6.17rem;
+ }
+ .dingdan-baofen{
+ 	width: 6.4rem;
+ 	height: 2.09rem;
+ 	border-bottom: 0.04rem solid #f6f6f6;
+ 	display: flex;
+ 	justify-content: space-around;
+ 	align-items: center;
+ }
+ .dingdan-baofen:nth-child(2){
+ 	border-bottom: 0;
+ }
+ .dingdan-baodi{
+ 	width: 6.4rem;
+ 	height: 0.73rem;
+ 	border-bottom: 0.1rem solid #f6f6f6;
+ 	overflow: hidden; 
+ }
+ .dingdan-left{
+ 	width: 1.1rem;
+ 	height: 1.6rem;
+ 	display: block;
+ }
+ .dingdan-baotu{
+ 	width: 1.1rem;
+ 	height: 1.6rem;
+ }
+ .dingdan-right{
+ 	width: 4.8rem;
+ 	height: 1.52rem;
+ 	display: block;
+ }
+ .dingdan-right1{
+ 	width: 2.81rem;
+ 	height: 0.64rem;
+ 	float: left;
+ }
+ .dingdan-right2{
+ 	width: 0.89rem;
+ 	height: 0.28rem;
+ 	float: right;
+ 	margin-top: 0.24rem;
+ 	font-size: 0.20rem;
+ 	color: #363636;
+ }
+ .dingdan-right3{
+ 	width: 0.35rem;
+ 	height: 0.28rem;
+    margin-top: 1rem;
+    margin-left: 4.45rem;
+    font-size: 0.19rem;
+    color: #b1b1b1;
+ }
+ .dingdan-right11{
+ 	width: 2.9rem;
+ 	height: 0.25rem;
+ 	font-size: 0.2rem;
+ 	color: #656565;
+ }
+ .dingdan-right12{
+ 	width: 2.81rem;
+ 	height: 0.31rem;
+ 	font-size: 0.2rem;
+ 	color: #b6b6b6;
+ 	line-height: 0.4rem;
+ }
+ .danpin-baodi1{
+ 	width: 1.3rem;
+ 	height: 0.27rem;
+ 	margin-left: 3.72rem;
+ 	margin-top: 0.27rem;
+ 	float: left;
+ 	font-size: 0.22rem;
+ 	color: #474747;
+ 	text-align: right;
+ }
+ .danpin-baodi2{
+ 	width: 1.19rem;
+ 	height: 0.27rem;
+ 	float: right;
+ 	margin-left:0.05rem;
+ 	margin-top: 0.27rem;
+ 	font-size: 0.22rem;
+ 	color: #f47daa;
+ }
+
+/* 订单聚美结束 */

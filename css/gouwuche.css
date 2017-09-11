@@ -1,0 +1,355 @@
+/*
+* @Author: AIAI
+* @Date:   2017-08-25 12:02:49
+* @Last Modified by:   AIAI
+* @Last Modified time: 2017-09-03 08:44:19
+*/
+ @import url("base.css");
+/* 购物车开始 */
+ .gouwuche{
+ 	width: 6.4rem;
+ 	height: 0.79rem;
+ 	overflow: hidden;
+ 	border-bottom: 0.1rem solid #eff4f8;
+ }
+ .gouwuche-wen{
+ 	width: 1.54rem;
+ 	height: 0.35rem;
+ 	margin-top: 0.26rem;
+ 	margin-left: 2.55rem;
+ 	font-size: 0.32rem;
+ 	color: #2f2f2f;
+ 	text-align: center;
+ 	line-height: 0.35rem;
+ 	float: left;
+ }
+ .gowuche-right{
+ 	width: 0.53rem;
+ 	height: 0.26rem;
+ 	display: block;
+ 	float: right;
+ 	margin-top: 0.28rem;
+ 	margin-right: 0.18rem;
+ 	font-size: 0.24rem;
+ 	color: #474747;
+ }
+/* 购物车结束 */
+/* 美丽优选开始 */
+ .youxuan{
+ 	width: 6.4rem;
+ 	height: 4.11rem;
+ }
+ .youxuan-top{
+ 	width: 6.4rem;
+ 	height:0.88em;
+ 	display: flex;
+ 	justify-content: space-between;
+ 	border-bottom: 0.04rem solid #f0f5f9;
+ }
+ .youxuan-bottom{
+ 	width: 6.4rem;
+ 	height: 3.2rem;
+ 	overflow: hidden;
+ 	border-bottom: 0.08rem solid #f0f5fb;
+ }
+ .youxuan-wen1{
+ 	width: 1.77rem;
+ 	height:0.88rem;
+
+ }
+ .youxuan-wen2{
+ 	width: 0.70rem;
+ 	height: 0.88rem;
+ 	font-size: 0.22rem;
+ 	color: #e096ae;
+ 	text-align: left;
+ 	line-height: 0.88rem;
+ 	display: block;
+ }
+ .youxuan-left1{
+ 	width: 0.2rem;
+ 	height: 0.2rem;
+    border-radius: 50%;
+ 	border:0.04rem solid #ededed;
+ 	float: left;
+ 	margin-left: 0.17rem;
+ 	margin-top: 0.25rem;
+ }
+ .youxuan-left2{
+ 	width: 1.06rem;
+ 	height: 0.26rem;
+ 	float: right;
+    margin-top: 0.28rem;
+    font-size: 0.20rem;
+ 	color: #4c4c4c;
+ 	text-align: center;
+ 	line-height: 0.26rem;
+ }
+
+ .youxuan-left3{
+ 	width: 0.2rem;
+ 	height: 0.2rem;
+ 	border-radius: 50%;
+ 	border:0.03rem solid #e9e9e9;
+ 	margin-top: 1.21rem;
+ 	margin-left: 0.20rem;
+ 	float: left;
+ }
+ .youxuan-right{
+ 	width:5.41rem;
+ 	height: 2.53rem;
+ 	float: right;
+ 	margin-top: 0.33rem;
+ 	margin-right: 0.20rem;
+ 	display: flex;
+ 	flex-direction: column;
+ 	justify-content: space-between;
+ }
+ .youxuan-right-top{
+ 	width: 5.41rem;
+ 	height: 1.75rem;
+ 	display: block;
+ }
+ .youxuan-right-bottom{
+ 	width: 4.4rem;
+ 	height: 0.25rem;
+ 	font-size: 0.22rem;
+ 	color: #ce2160;
+ 	line-height: 0.25rem;
+ }
+ .youxuan-tu{
+ 	width: 1.22rem;
+ 	height: 1.22rem;
+ 	background:pink;
+ 	float: left;
+ 	margin-top: 0.53rem;
+ }
+  .youxuan-tu1{
+ 	width: 1.22rem;
+ 	height: 1.22rem;
+ 	display: block;
+ }
+ .youxuan-tu-wen{
+ 	width: 3.92rem;
+ 	height: 1.75rem;
+ 	float: right;
+
+ }
+ .youxuan-tu-wen1{
+ 	width: 3.92rem;
+ 	height: 0.51rem;
+ 	font-size: 0.20rem;
+ 	color: #515151;
+ }
+ .youxuan-tu-wen2{
+ 	width: 3.92rem;
+ 	height: 0.27rem;
+ 	margin-top: 0.21rem;
+    font-size: 0.21rem;
+    color: #afafaf;
+ }
+ .youxuan-tu-wen3{
+ 	width: 3.92rem;
+ 	height: 0.27rem;
+ 	margin-top: 0.47rem;
+ }
+ .youxuan-tu-wen3-1{
+ 	width: 0.96rem;
+ 	height: 0.27rem;
+ 	font-size: 0.24rem;
+ 	color: #474747;
+ 	float: left;
+ }
+ .youxuan-tu-wen3-2{
+ 	width: 0.32rem;
+ 	height: 0.27rem;
+ 	font-size: 0.24rem;
+ 	color: #474747;
+ 	float: right;
+ }
+/* 美丽优选结束 */
+/* 猜你喜欢开始 */
+ .caini{
+ 	width: 6.4rem;
+ 	height: 6.29rem;
+ }
+ .caini-top{
+ 	width: 6.4rem;
+ 	height: 0.89rem;
+ 	overflow: hidden;
+ }
+ .caini-top1{
+ 	width: 1rem;
+ 	height: 0.26rem;
+ 	margin-top: 0.33rem;
+ 	margin-left: 0.19rem;
+ 	font-size: 0.18rem;
+ 	color: #909090;
+ }
+ .caini-bottom{
+ 	width: 6.4rem;
+ 	height: 5.42rem;
+ 	display: flex;
+ 	justify-content: space-around;
+ }
+ .caini-left{
+ 	width: 2.91rem;
+ 	height: 5.42rem;
+ 	float: left;
+ 	display: block;
+ 	border-bottom: 0.02rem solid #ebebeb;
+ }
+ .caini-right{
+ 	width: 2.91rem;
+ 	height: 5.42rem;
+ 	float: left;
+ 	display: block;
+ 	border-bottom: 0.02rem solid #ebebeb;
+ }
+ .caini-tu{
+ 	width: 2.91rem;
+ 	height: 4.4rem;
+ }
+ .caini-chatu{
+ 	width: 2.91rem;
+ 	height: 4.4rem;
+ 	display: block; 
+ }
+ .caini-wen{
+ 	width: 2.91rem;
+ 	height: 1.01rem;
+ 	display: flex;
+ 	align-items: center;
+ }
+ .caini-wennei{
+ 	width: 2.91rem;
+ 	height: 0.65rem;
+
+ }
+ .caini-wen1{
+ 	width: 2.91rem;
+ 	height: 0.26rem;
+ 	display: flex;
+ 	justify-content: space-around;
+ }
+ .caini-wen1fen{
+ 	width: 0.54rem;
+ 	height: 0.26rem;
+ 	background: #ff5d98;
+ 	float: left;
+ 	border-radius: 20%;
+ 	font-size: 0.18rem;
+ 	color: #ffdfec;
+ 	text-align: center;
+ 	line-height: 0.26rem;
+ }
+ .caini-wen1fen2{
+ 	width: 2.26rem;
+ 	height: 0.26rem;
+ 	float: left;
+ 	font-size: 0.20rem;
+ 	color: #777777;
+ 	text-align: right;
+ }
+ .caini-wen2{
+    width: 2.91rem;
+    height: 0.25rem;
+    margin-top: 0.08rem;
+ }
+ .caini-wen2fen1{
+ 	width: 0.68rem;
+ 	height: 0.25rem;
+ 	float: left;
+ 	margin-left: 0.06rem;
+ 	font-size: 0.18rem;
+ 	color: #505050;
+ }
+ .caini-wen2fen2{
+ 	width: 0.68rem;
+ 	height: 0.25rem;
+ 	float: right;
+ 	margin-right: 0.06rem;
+ 	font-size: 0.18rem;
+ 	color: #505050;
+ 	text-align: right;
+ }
+ .xihuan-bottom{
+ 	width: 6.4rem;
+ 	height:0.88em;
+ 	display: flex;
+ 	justify-content: space-between;
+ 	border-bottom: 0.04rem solid #f0f5f9;
+ }
+ .youxuan-wen1{
+ 	width: 1.77rem;
+ 	height:0.88rem;
+
+ }
+ .xihuan-center{
+ 	width: 1.56rem;
+ 	height: 0.88rem;
+ 	background: #fb6797;
+ 	font-size: 0.28rem;
+ 	color: #ffe0f1;
+ 	text-align: center;
+ 	line-height: 0.86rem;
+ 	display: block;
+ }
+ .xihuan-left1{
+ 	width: 0.2rem;
+ 	height: 0.2rem;
+    border-radius: 50%;
+ 	border:0.04rem solid #ededed;
+ 	float: left;
+ 	margin-left: 0.17rem;
+ 	margin-top: 0.25rem;
+ }
+ .xihuan-left2{
+ 	width: 1.06rem;
+ 	height: 0.26rem;
+ 	float: right;
+    margin-top: 0.28rem;
+    font-size: 0.20rem;
+ 	color: #4c4c4c;
+ 	text-align: center;
+ 	line-height: 0.26rem;
+ }
+ /* 猜你喜欢结束 */
+ /* 底部开始 */
+.dibu{
+	width: 100%;
+	height: 0.86rem;
+	overflow: hidden;
+	margin-top: 6.4rem;
+}
+.dibu-wai{
+	width: 100%;
+	height: 0.86rem;
+	display: flex;
+	justify-content: space-around; 
+}
+.dibu-fen{
+	width: 0.43rem;
+	height: 0.64rem;
+	float: left;
+}
+.dibu-tu{
+	width: 0.43rem;
+	height: 0.35rem;
+	display: block;
+	margin-top: 0.1rem;
+}
+.dibu-wen{
+	width:0.4rem;
+	height: 0.2rem;
+	font-size: 0.16rem;
+    text-align: center;
+}
+.dibu-wen3{
+	width:0.8rem;
+	height: 0.2rem;
+	font-size: 0.16rem;
+    text-align: left;
+}
+/* 底部结束 */
+

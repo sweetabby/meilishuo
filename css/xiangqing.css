@@ -1,0 +1,195 @@
+/*
+* @Author: AIAI
+* @Date:   2017-08-27 21:24:28
+* @Last Modified by:   AIAI
+* @Last Modified time: 2017-09-03 09:40:21
+*/
+@import url("base.css");
+/* 个人头部开始 */
+ .dingdan-tou{
+ 	width: 6.4rem;
+ 	height: 0.81rem;
+ 	overflow: hidden;
+ 	border-bottom: 0.15rem solid #eeeeee;
+ }
+ .dingdan-touzuo{
+ 	width: 0.44rem;
+ 	height: 0.64rem;
+ 	display: block;
+ 	font-size: 0.5rem;
+ 	color: #8a8a8a;
+ 	float: left;
+ }
+ .dingdan-center{
+ 	width: 1.28rem;
+ 	height: 0.36rem;
+ 	margin: 0 auto;
+ 	margin-top: 0.23rem;
+ 	font-size: 0.27rem;
+ 	color: #575757;
+ 	text-align: center;
+ }
+/*个人头部结束 */
+.xiangqing-lan{
+	width: 6.4rem;
+	height: 0.79rem;
+}
+.xiangqing-tu1{
+	width: 6.4rem;
+	height: 7.44rem;
+	display: block;
+}
+.xiangqing-wen{
+	width: 6.4rem;
+	height: 2.9rem;
+	overflow: hidden;
+}
+.xiangqing-wen1{
+	width: 5.92rem;
+	height: 0.64rem;
+	border-bottom: 0.01rem solid #eaeaea;
+	font-size: 0.26rem;
+	display: block;
+	margin-top: 0.33rem;
+	margin-left: 0.18rem;
+}
+.xiangqing-wen2{
+	width: 5.92rem;
+	height: 0.64rem;
+	border-bottom: 0.01rem solid #eaeaea;
+	font-size: 0.26rem;
+	display: block;
+	display: flex;
+	align-items: flex-end;
+	margin-left: 0.18rem;
+}
+.xiangqing-wen21{
+	width: 1.6rem;
+	height: 0.47rem;
+	float: left;
+	font-size: 0.36rem;
+	color: #ed6190;
+}
+.xiangqing-wen22{
+	width: 0.88rem;
+	height: 0.28rem;
+	text-decoration: line-through;
+	float: left;
+	font-size: 0.24rem;
+	color: #888888;
+}
+.xiangqing-wen23{
+	width: 0.71rem;
+	height: 0.28rem;
+	border-radius: 15%;
+	background: #e50047;
+	float: left;
+	font-size: 0.2rem;
+	color: #fff1fa;
+}
+.xiangqing-wen3{
+	width: 5.92rem;
+	height: 0.41rem;
+	margin-left: 0.18rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.xiangqing-wen31{
+	width: 1.5rem;
+	height: 0.29rem;
+	font-size: 0.2rem;
+	color: #7e7e7e;
+}
+.xiangqing-wen4{
+	width: 6.4rem;
+	height: 0.7rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 0.1rem solid #eaeaea;
+}
+ .xiangqing-wen41{
+ 	width: 1.36rem;
+ 	height: 0.3rem;
+ 	font-size: 0.18rem;
+ 	color: #696969;
+ 	text-align: center;
+ }
+ .xiangqing-wen5{
+ 	width: 6.4rem;
+ 	height: 0.81rem;
+ 	display: flex;
+ 	justify-content: space-around;
+ 	align-items: center;
+ 	border-bottom: 0.08rem solid #f1f2f4;
+ }
+ .xiangqing-wen51{
+ 	width:1rem;
+ 	height: 0.31rem;
+ 	background: #f9544a;
+ 	font-size: 0.17rem;
+ 	color: #d2ffc2;
+ }
+ .xiangqing-wen52{
+ 	font-size: 0.18rem;
+ 	color: #4b4b4b;
+ }
+  .xiangqing-wen53{
+ 	font-size: 0.18rem;
+ 	color: #4b4b4b;
+ 	line-height: 0.18rem;
+ }
+ .xq-pinjia{
+ 	width: 6.4rem;
+ 	height: 3.84rem;
+ }
+ .xq-pinjia-top{
+ 	width: 6.4rem;
+ 	height: 0.83rem;
+ }
+ .xq-pinjiawen1{
+ 	width: 1.47rem;
+ 	height: 0.82rem;
+ 	float: left;
+ 	margin-left: 0.24rem;
+ 	font-size: 0.25rem;
+ 	color: #030303;
+ 	line-height: 0.82rem;
+ }
+  .xq-pinjiawen2{
+ 	width: 1.09rem;
+ 	height: 0.82rem;
+ 	float: right;
+ 	font-size: 0.25rem;
+ 	color:#5e5e5e;
+ 	line-height: 0.82rem;
+ }
+ .xq-pinjia-bottom{
+ 	width: 5.94rem;
+ 	height: 3.01rem;
+ 	margin-left: 0.24rem;
+ }
+ .xq-pinjia-bottom1{
+ 	width: 0.66rem;
+ 	height: 0.66rem;
+ 	float: left;
+ 	margin-top: 0.36rem;
+ }
+ .xq-pinjia-bottom2{
+ 	width: 5.23rem;
+ 	height: 2.64rem;
+ 	float: right;
+ 	margin-top: 0.36rem;
+ 	font-size: 0.24rem;
+ 	color: #7c7c7c
+ }
+ .xq-pinjia-bottom-tu{
+ 	width: 0.66rem;
+ 	height: 0.66rem;
+ 	display: block;
+ }
+ .jietu{
+ 	width: 6.4rem;
+ 	display: block;
+ }

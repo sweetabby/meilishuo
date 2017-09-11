@@ -1,0 +1,94 @@
+/*
+* @Author: AIAI
+* @Date:   2017-08-27 10:38:37
+* @Last Modified by:   AIAI
+* @Last Modified time: 2017-09-03 09:10:14
+*/
+@import url("base.css");
+/* 个人头部开始 */
+ .dingdan-tou{
+ 	width: 6.4rem;
+ 	height: 0.81rem;
+ 	overflow: hidden;
+ 	border-bottom: 0.15rem solid #eeeeee;
+ }
+ .dingdan-touzuo{
+ 	width: 0.44rem;
+ 	height: 0.64rem;
+ 	display: block;
+ 	font-size: 0.5rem;
+ 	color: #8a8a8a;
+ 	float: left;
+ }
+ .dingdan-center{
+ 	width: 1.28rem;
+ 	height: 0.36rem;
+ 	margin: 0 auto;
+ 	margin-top: 0.23rem;
+ 	font-size: 0.27rem;
+ 	color: #575757;
+ 	text-align: center;
+ }
+/*个人头部结束 */
+/* 个人下开始 */
+ .reren{
+ 	width: 6.4rem;
+ 	height: 7.47rem;
+ }
+ .geren-fen{
+ 	width: 6.03rem;
+ 	height: 1.06rem;
+ 	float: right;
+ 	border-bottom: 0.02rem solid #cccccc;
+ }
+ .geren-left{
+ 	width: 1.5rem;
+ 	height: 1.06rem;
+ 	font-size: 0.27rem;
+ 	color: #6c6869;
+ 	text-align: left;
+ 	line-height: 1.06rem;
+ 	float: left;
+ }
+ .geren-right{
+ 	width: 2.93rem;
+ 	height: 1.06rem;
+ 	float: right;
+ 	margin-right: 0.32rem;
+
+ }
+ .geren-right1{
+ 	width: 2.66rem;
+ 	height:1.06rem;
+ 	float: left;
+ 	font-size: 0.21rem;
+ 	color: #6e6e6e;
+ 	text-align: right;
+ 	line-height: 1.06rem;
+ }
+ .geren-peitu{
+ 	width: 1.1rem;
+ 	height: 1.06rem;
+ 	float: right;
+ }
+ .geren-right2{
+ 	width: 0.27rem;
+ 	height: 1.06rem;
+ 	display: block;
+ 	font-size: 0.3rem;
+ 	color: #b4b4b4;
+    line-height: 1.06rem;
+ 	float: right;
+ }
+  .geren-right11{
+ 	width: 2.66rem;
+ 	height:1.06rem;
+ 	float: left;
+ 	font-size: 0.21rem;
+ 	color: #f998bc;
+ 	text-align: right;
+ 	line-height: 1.06rem;
+ }
+
+
+/* 个人下结束 */

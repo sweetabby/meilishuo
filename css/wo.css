@@ -1,0 +1,196 @@
+/*
+* @Author: AIAI
+* @Date:   2017-08-27 17:41:09
+* @Last Modified by:   AIAI
+* @Last Modified time: 2017-09-03 09:03:38
+*/
+@import url("base.css");
+ .wo-top{
+	width: 6.4rem;
+	height: 2.27rem;
+	border-bottom: 0.09rem solid #f1f5f8;
+ }
+ .wo-top-top{
+	width: 6.4rem;
+	height: 0.87rem;
+	overflow: hidden;
+ }
+ .wo-top-bottom{
+ 	width: 6.4rem;
+ 	height: 1.38rem;
+ }
+ .wo-she{
+ 	width: 0.38rem;
+ 	height: 0.38rem;
+ 	display: block;
+ 	margin-top: 0.25rem;
+ 	margin-left: 0.24rem;
+ 	float: left;
+ }
+ .wo-dui{
+ 	width: 0.36rem;
+ 	height: 0.32rem;
+ 	display: block;
+ 	float: right;
+ 	margin-top: 0.25rem;
+ 	margin-right: 0.24rem;
+ }
+ .wo-tu1{
+ 	width: 0.38rem;
+ 	height: 0.38rem;
+ 	display: block;
+ }
+ .wo-tu2{
+ 	width: 0.36rem;
+ 	height: 0.32rem;
+ 	display: block;
+ }
+ .wo-touxiang{
+ 	width: 0.91rem;
+ 	height: 0.89rem;
+ 	border-radius: 50%;
+ 	display: block;
+ 	float: left;
+ 	margin-left: 0.17rem;
+ 	margin-top: 0.26rem;
+ }
+ .wo-xiang-wen{
+ 	width: 2.81rem;
+ 	height: 0.36rem;
+ 	float: left;
+ 	margin-left: 0.19rem;
+ 	margin-top: 0.54rem;
+ 	font-size: 0.27rem;
+ 	color: #313131;
+ }
+ .wo-xiang{
+ 	width: 0.89rem;
+ 	height: 0.89rem;
+ 	display: block;
+ }
+ .wo-nav{
+ 	width: 6.4rem;
+ 	height: 1.48rem;
+ 	display: flex;
+ 	justify-content: space-around;
+ 	align-items: center;
+ 	border-bottom: 0.09rem solid #f5f4f6;
+ }
+ .wo-navfen{
+ 	width: 0.78rem;
+ 	height: 0.97rem;
+ 	display: block;
+ }
+ .wo-navfen-4{
+ 	width: 0.78rem;
+ 	height: 0.97rem;
+ 	display: block;
+ }
+ .wo-navtu{
+ 	width: 0.55rem;
+ 	height: 0.56rem;
+ 	display: block;
+ 	margin-left: 0.1rem;
+ }
+ .wo-navwen{
+ 	width: 1rem;
+ 	height: 0.26rem;
+ 	font-size: 0.24rem;
+ 	color: #303030;
+ }
+/* 钱包开始 */
+ .qianbao{
+ 	width: 6.4rem;
+ 	height: 1.7rem;
+ 	background: pink;
+ 	display: flex;
+ 	justify-content: space-around;
+ }
+ .qianbao-fen{
+ 	width: 1.35rem;
+ 	height: 1.33rem;
+ 	display: block;
+ 	margin-top: 0.2rem;
+ }
+ .qianbao-tu{
+ 	width: 1.35rem;
+ 	height: 1.33rem;
+
+ }
+ .qianbao2{
+ 	width: 6.4rem;
+ 	height: 1.7rem;
+ 	display: flex;
+ 	justify-content: space-around;
+ 	border-bottom: 0.08rem solid #f1f5f8;
+ }
+ .qianbao-daren{
+ 	width: 6.4rem;
+ 	height: 1.43rem;
+ 	border-bottom: 0.08rem solid #f1f5f8;
+ }
+ .daren-zuo{
+ 	width: 2.25rem;
+ 	height: 0.63rem;
+ 	display: block;
+ 	float: left;
+ 	margin-left: 0.14rem;
+ 	margin-top: 0.22rem;
+ }
+ .daren-you{
+ 	width: 1.28rem;
+ 	height: 0.63rem;
+ 	display: block;
+ 	float: right;
+ 	margin-top: 0.22rem;
+ 	font-size: 0.22rem;
+ 	color: #7a7a7a;
+ 	line-height: 0.63rem;
+ }
+ .daren-tu{
+ 	width: 0.54rem;
+ 	height: 0.54rem;
+ 	display: block;
+ 	float: left;
+ }
+ .daren-wen{
+ 	width: 1.51rem;
+ 	height: 0.54rem;
+    font-size: 0.22rem;
+    color: #3a3a3a;
+    display: block;
+    float: right;
+    line-height: 0.54rem;
+ }
+/* 钱包结束 */
+/* 底部开始 */
+.dibu-wai{
+	width: 100%;
+	height: 0.86rem;
+	display: flex;
+	justify-content: space-around; 
+}
+.dibu-fen{
+	width: 0.43rem;
+	height: 0.64rem;
+	float: left;
+}
+.dibu-tu{
+	width: 0.43rem;
+	height: 0.35rem;
+	display: block;
+	margin-top: 0.1rem;
+}
+.dibu-wen{
+	width:0.4rem;
+	height: 0.2rem;
+	font-size: 0.16rem;
+    text-align: center;
+}
+.dibu-wen3{
+	width:0.8rem;
+	height: 0.2rem;
+	font-size: 0.16rem;
+    text-align: left;
+}
+/* 底部结束 */

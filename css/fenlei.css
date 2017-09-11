@@ -1,0 +1,322 @@
+/*
+* @Author: AIAI
+* @Date:   2017-08-26 16:53:50
+* @Last Modified by:   AIAI
+* @Last Modified time: 2017-09-03 08:27:39
+*/
+@import url("base.css");
+/* 头部开始 */
+ .header{
+ 	width: 6.4rem;
+ 	height: 0.77rem;
+ 	overflow: hidden;
+ }
+ .header-center{
+ 	width: 5.45rem;
+ 	height: 0.49rem;
+ 	background: #f4f4f4;
+ 	margin-top: 0.14rem;
+ 	margin-left: 0.17rem;
+ 	float: left;
+ 	border-radius: 0.1rem;
+ }
+ .header-right{
+ 	width: 0.49rem;
+ 	height: 0.45rem;
+ 	float: left;
+ 	margin-top: 0.15rem;
+ 	margin-left: 0.28rem;
+ }
+ .header-tu2{
+ 	width: 0.49rem;
+ 	height: 0.45rem;
+ 	display: block;
+ }
+ .sousuo-wai{
+ 	width: 0.28rem;
+ 	height: 0.28rem;
+ 	margin-top: 0.14rem;
+ 	margin-left: 0.16rem;
+ 	float: left;
+ 	
+ }
+ .sousuo-tu{
+ 	width: 0.28rem;
+ 	height: 0.28rem;
+ 	display: block;
+ }
+ .sousuo-kuang{
+ 	width: 4.11rem;
+ 	height: 0.22rem;
+ 	display: block;
+ }
+ .input{
+ 	width: 4.98rem;
+   display: block;	
+   margin-top: 0.09rem;
+   float: left;
+   background: #f4f4f4;
+   border: 0;
+   color: #f4f4f4;
+ }
+/* 头部结束 */
+/* 穿搭开始 */
+ .chuanda-wai{
+ 	width: 6.4rem;
+ 	height: 10.29rem;
+ 	border-top: 0.02rem solid #f6f6ff;
+ 	border-bottom: 0.1rem solid #f6f6ff;
+ }
+ .chuanda-fen{
+ 	width: 1.56rem;
+ 	height: 2.56rem;
+ 	display: block;
+ 	float: left;
+ 	border-right: 0.01rem solid #fafafa;
+ 	border-bottom:0.01rem solid #fafafa;
+ }
+ .chuanda-wai li:nth-child(4n){
+ 	border-right: 0;
+ }
+ .chuanda-wai li:nth-child(13)~{
+ 	border-bottom: 0;
+ }
+ .chuanda-fentu{
+ 	width: 0.92rem;
+ 	height: 1.34rem;
+ 	margin-left: 0.335rem;
+ 	margin-top: 0.18rem;
+
+ }
+ .chuanda-wen{
+ 	width: 0.52rem;
+ 	height: 0.28rem;
+ 	margin-left: 0.54rem;
+ 	margin-bottom: 0.26rem;
+ 	font-size: 0.2rem;
+ 	color: #676767;
+ }
+/* 穿搭结束 */
+/* 热门穿搭开始 */
+ .remen{
+	width: 6.4rem;
+	height: 2.57rem;
+	border-bottom: 0.08rem solid #f5f8ff;
+ }
+.remen-lan{
+	width: 6.4rem;
+	height: 0.72rem;
+ }
+ .renmen-xia{
+ 	width: 6.4rem;
+ 	height: 1.52rem;
+    display:flex;
+    justify-content: space-between;
+ }
+ .remenfen{
+ 	width: 2.2rem;
+ 	height: 1.52rem;
+ 	display: block;
+ 	  float: left;
+ }
+ .renmen-left{
+ 	width: 1.27rem;
+ 	height: 0.28rem;
+ 	float: left;
+ 	margin-top: 0.31rem;
+ 	margin-left: 0.17rem;
+ 	font-size: 0.10rem;
+ 	color: #101010;
+ }
+ .renmen-right{
+ 	width: 0.67rem;
+ 	height: 0.28rem;
+ 	display: block;
+ 	float: right;
+ 	margin-top: 0.31rem;
+ 	margin-right: 0.17rem;
+ 	font-size: 0.10rem;
+ 	color: #a8a8a8;
+ }
+ .remen-tu{
+ 	width: 2.0rem;
+ 	height: 1.52rem;
+ }
+/* 热门穿搭结束 */
+/* 流行开始 */
+ .caini{
+ 	width: 6.4rem;
+ 	height: 6.29rem;
+ }
+ .caini-top{
+ 	width: 6.4rem;
+ 	height: 0.89rem;
+ 	overflow: hidden;
+ }
+ .caini-top1{
+ 	width: 1rem;
+ 	height: 0.26rem;
+ 	margin-top: 0.33rem;
+ 	margin-left: 0.19rem;
+ 	font-size: 0.18rem;
+ 	color: #909090;
+ }
+ .caini-bottom{
+ 	width: 6.4rem;
+ 	height: 5.42rem;
+ 	display: flex;
+ 	justify-content: space-around;
+ }
+ .caini-left{
+ 	width: 2.91rem;
+ 	height: 5.42rem;
+ 	float: left;
+ 	display: block;
+ 	border-bottom: 0.02rem solid #ebebeb;
+ }
+ .caini-right{
+ 	width: 2.91rem;
+ 	height: 5.42rem;
+ 	float: left;
+ 	display: block;
+ 	border-bottom: 0.02rem solid #ebebeb;
+ }
+ .caini-tu{
+ 	width: 2.91rem;
+ 	height: 4.4rem;
+ }
+ .caini-chatu{
+ 	width: 2.91rem;
+ 	height: 4.4rem;
+ 	display: block; 
+ }
+ .caini-wen{
+ 	width: 2.91rem;
+ 	height: 1.01rem;
+ 	display: flex;
+ 	align-items: center;
+ }
+ .caini-wennei{
+ 	width: 2.91rem;
+ 	height: 0.65rem;
+
+ }
+ .caini-wen1{
+ 	width: 2.91rem;
+ 	height: 0.26rem;
+ 	display: flex;
+ 	justify-content: space-around;
+ }
+ .caini-wen1fen{
+ 	width: 0.54rem;
+ 	height: 0.26rem;
+ 	background: #ff5d98;
+ 	float: left;
+ 	border-radius: 20%;
+ 	font-size: 0.18rem;
+ 	color: #ffdfec;
+ 	text-align: center;
+ 	line-height: 0.26rem;
+ }
+ .caini-wen1fen2{
+ 	width: 2.26rem;
+ 	height: 0.26rem;
+ 	float: left;
+ 	font-size: 0.20rem;
+ 	color: #777777;
+ 	text-align: right;
+ }
+ .caini-wen2{
+    width: 2.91rem;
+    height: 0.25rem;
+    margin-top: 0.08rem;
+ }
+ .caini-wen2fen1{
+ 	width: 0.68rem;
+ 	height: 0.25rem;
+ 	float: left;
+ 	margin-left: 0.06rem;
+ 	font-size: 0.18rem;
+ 	color: #505050;
+ }
+ .caini-wen2fen2{
+ 	width: 0.68rem;
+ 	height: 0.25rem;
+ 	float: right;
+ 	margin-right: 0.06rem;
+ 	font-size: 0.18rem;
+ 	color: #505050;
+ 	text-align: right;
+ }
+ .youxuan-wen1{
+ 	width: 1.77rem;
+ 	height:0.88rem;
+
+ }
+ .xihuan-center{
+ 	width: 1.56rem;
+ 	height: 0.88rem;
+ 	background: #fb6797;
+ 	font-size: 0.28rem;
+ 	color: #ffe0f1;
+ 	text-align: center;
+ 	line-height: 0.86rem;
+ 	display: block;
+ }
+ .xihuan-left1{
+ 	width: 0.2rem;
+ 	height: 0.2rem;
+    border-radius: 50%;
+ 	border:0.04rem solid #ededed;
+ 	float: left;
+ 	margin-left: 0.17rem;
+ 	margin-top: 0.25rem;
+ }
+ .xihuan-left2{
+ 	width: 1.06rem;
+ 	height: 0.26rem;
+ 	float: right;
+    margin-top: 0.28rem;
+    font-size: 0.20rem;
+ 	color: #4c4c4c;
+ 	text-align: center;
+ 	line-height: 0.26rem;
+ }
+/* 流行结束 */
+/* 底部开始 */
+.dibu{
+	width: 100%;
+	height: 0.86rem;
+	overflow: hidden;
+	margin-top: 5.6rem;
+}
+.dibu-wai{
+	width: 100%;
+	height: 0.86rem;
+	display: flex;
+	justify-content: space-around; 
+}
+.dibu-fen{
+	width: 0.43rem;
+	height: 0.64rem;
+	float: left;
+}
+.dibu-tu{
+	width: 0.43rem;
+	height: 0.35rem;
+	display: block;
+	margin-top: 0.1rem;
+}
+.dibu-wen{
+	width:0.4rem;
+	height: 0.2rem;
+	font-size: 0.16rem;
+    text-align: center;
+}
+.dibu-wen3{
+	width:0.8rem;
+	height: 0.2rem;
+	font-size: 0.16rem;
+    text-align: left;
+}
+/* 底部结束 */
